@@ -1,13 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+    overflow: hidden;
+}
+
 .background {
     background-color: #1E90FF;
+    max-width: 100%;
+    max-height: 100%;
 }
 
 .loginbox {
     box-shadow: 0.3em 0.3em 1em rgba(0,0,0,0.3);
     background-color: white;
-    height: 50vh;
-    width: 25%;
-    margin: 10% auto 50%;
+    width: 35vw;
+    height: 35vw;
+    position: relative;
+    overflow: hidden;
+
+    margin: 7% 30% 30%;
 }
 
 .loginBoxFlex{
@@ -39,9 +53,7 @@
     position: absolute;
     margin: 2px;
     height: 40px;
-
 }
-
 
 #stickynote{
     height: 20%;
