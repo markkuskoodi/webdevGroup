@@ -1,14 +1,12 @@
 .background {
     background-color: #1E90FF;
-    height: 100%;
-    width: 100%;
 }
 
 .loginbox {
     box-shadow: 0.3em 0.3em 1em rgba(0,0,0,0.3);
     position: relative;
     background-color: white;
-    height: 50%;
+    height: 50vh;
     width: 30%;
     margin: 10% auto 50%;
     display:flex;
