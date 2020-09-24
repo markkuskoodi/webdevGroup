@@ -4,17 +4,29 @@
 
 .loginbox {
     box-shadow: 0.3em 0.3em 1em rgba(0,0,0,0.3);
-    position: relative;
     background-color: white;
     height: 50vh;
     width: 30%;
     margin: 10% auto 50%;
-    display:flex;
+}
+
+.loginBoxFlex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: auto;
+}
+
+.loginBoxText{
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
 }
 
 #stickynote{
-    height: 25%;
-    width: 25%;
+    height: 20%;
+    width: 20%;
 }
 
 #heading{
