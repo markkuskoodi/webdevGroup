@@ -6,23 +6,42 @@
     box-shadow: 0.3em 0.3em 1em rgba(0,0,0,0.3);
     background-color: white;
     height: 50vh;
-    width: 30%;
+    width: 25%;
     margin: 10% auto 50%;
 }
 
 .loginBoxFlex{
+    margin-top: -10%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-top: auto;
 }
 
 .loginBoxText{
-    margin: 10px;
+    margin: 20px;
     align-items: center;
     justify-content: center;
 }
+
+.loginBoxLower{
+    align-items:center;
+    justify-content: center;
+}
+
+.loginBoxInput{
+    margin: 2px;
+    width: 100%;
+    height: 30px;
+}
+
+.loginBoxSubmit{
+    position: absolute;
+    margin: 2px;
+    height: 40px;
+
+}
+
 
 #stickynote{
     height: 20%;

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="res/css/login.css">
     <title>Welcome to postIt! Please log in</title>
 </head>
@@ -11,13 +11,13 @@
         <img id="stickynote" src="res/img/stickynote.png">
         <div class="loginBoxFlex">
             <h2 class="loginBoxText" id="heading">Welcome to postIt!</h2>
-            <a class="loginBoxText" href="">Create an Account</a>
-            <p class="loginBoxText">Or</p>
-            <p class="loginBoxText">Please Log In</p>
+            <h3><a class="loginBoxText" href="">Create an Account</a></h3>
+            <h3 class="loginBoxText">Or</h3>
+            <h3 class="loginBoxText">Please Log In</h3>
             <form action="">
-                <input type="text" id="email" name="email" value="Email"><br>
-                <input type="password" id="passwd" name="passwd" value="Password"><br><br>
-                <input type="submit" value="Submit">
+                <label for="email"><input class="loginBoxInput" type="text" id="email" name="email" value="Email"><br></label>
+                <label for="passwd"><input class="loginBoxInput" type="password" id="passwd" name="passwd" value="Password"><br></label>
+                <input class="loginBoxSubmit" type="submit" value="Submit">
             </form>
         </div>
     </div>

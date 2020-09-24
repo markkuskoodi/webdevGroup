@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1aaa7430-5ce0-474a-8c94-8cebf2a93887" name="Default Changelist" comment="little fix to css">
+    <list default="true" id="1aaa7430-5ce0-474a-8c94-8cebf2a93887" name="Default Changelist" comment="overall done with this, only submit button and background size needs to be resized.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/res/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/res/css/login.css" afterDir="false" />
@@ -54,7 +54,7 @@
       <updated>1600888242556</updated>
       <workItem from="1600888244348" duration="3929000" />
       <workItem from="1600898375716" duration="1764000" />
-      <workItem from="1600940855344" duration="2158000" />
+      <workItem from="1600940855344" duration="5600000" />
     </task>
     <task id="LOCAL−00001" summary="git ei tööta mul lambist??">
       <created>1600890398523</created>
@@ -86,7 +86,13 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1600941059609</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="flexbox sucks">
+      <created>1600944094806</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1600944094806</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,20 +114,22 @@
     <MESSAGE value="git ei tööta mul lambist??" />
     <MESSAGE value="lil fix fo css" />
     <MESSAGE value="little fix to css" />
-    <option name="LAST_COMMIT_MESSAGE" value="little fix to css" />
+    <MESSAGE value="flexbox sucks" />
+    <MESSAGE value="overall done with this, only submit button and background size needs to be resized." />
+    <option name="LAST_COMMIT_MESSAGE" value="overall done with this, only submit button and background size needs to be resized." />
   </component>
   <component name="WindowStateProjectService">
     <state x="598" y="281" key="MultipleFileMergeDialog" timestamp="1600890604433">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="598" y="281" key="MultipleFileMergeDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600890604433" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1600941063402">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1600949992714">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600941063402" />
-    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600941074334">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600949992714" />
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600944079714">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600941074334" />
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600944079714" />
   </component>
 </project>
