@@ -60,10 +60,27 @@
     float: left;
     margin-left: 2%;
     margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+#postPic {
+    height: 50%;
+    width: 100%;
+    position: relative;
+}
+
+#kuupäev {
+    float: right;
+    margin-right: 3%;
+    margin-top: 2%;
+    color: #4f4f4f;
 }
 
 #stickynote {
     float: left;
     height: 3%;
     width: 3%;
+}
+
+#title {
 }
