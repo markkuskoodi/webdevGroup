@@ -89,7 +89,7 @@ a:hover {
     }
 }
 
-@media only screen and (min-height: 737px) and (min-width: 411px){
+@media only screen and (min-height: 737px) and (min-width: 411px) and (max-width: 411px){
     .loginbox {
         width: 87vw;
         height: 180vw;
