@@ -4,7 +4,7 @@
 
 ✓ Use at least 2 different class selectors
 
-  Use a pseudo-element or pseudo-class
+✓  Use a pseudo-element or pseudo-class
 
   Use a Descendant Selector (eg: div p)
 

@@ -40,6 +40,10 @@ body {
     justify-content: center;
 }
 
+a:hover {
+  color: #92cbf7;
+}
+
 .loginBoxLower{
     align-items:center;
     justify-content: center;
