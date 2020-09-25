@@ -23,7 +23,7 @@
 
 .post {
     width: 40vw;
-    height: 50vw;
+    height: 40vw;
     position: relative;
     margin: 10% 10% 10%;
     box-shadow: 0.3em 0.3em 1em rgba(0,0,0,0.3);
@@ -89,4 +89,16 @@
 }
 
 #title {
+    font-size: 20px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    margin-left: 3%;
+}
+
+#like {
+    height: 5%;
+    width: 10%;
+    float: left;
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
