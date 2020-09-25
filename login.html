@@ -7,19 +7,22 @@
     <title>Welcome to postIt! Please log in</title>
 </head>
 <body class="background">
-    <div class="loginbox">
-        <img id="stickynote" src="res/img/stickynote.png">
-        <div class="loginBoxFlex">
-            <h2 class="loginBoxText" id="heading">Welcome to postIt!</h2>
-            <h3><a class="loginBoxText" href="">Create an Account</a></h3>
-            <h3 class="loginBoxText">Or</h3>
-            <h3 class="loginBoxText">Please Log In</h3>
-            <form action="">
-                <label for="email"><input class="loginBoxInput" type="email" id="email" name="email" placeholder="Email"><br></label>
-                <label for="passwd"><input class="loginBoxInput" type="password" id="passwd" name="passwd" placeholder="Password"><br></label>
-                <input class="loginBoxSubmit" type="submit" value="Submit">
-            </form>
-        </div>
+<div class="loginbox">
+    <img id="stickynote" src="res/img/stickynote.png">
+    <div class="loginBoxFlex">
+        <h2 class="loginBoxText" id="heading">Welcome to postIt!</h2>
+        <h3><a class="loginBoxText" href="">Create an Account</a></h3>
+        <h3 class="loginBoxText">Or</h3>
+        <h3 class="loginBoxText">Please Log In</h3>
+        <form action="">
+            <label for="email"><input class="loginBoxInput" type="email" id="email" name="email"
+                                      placeholder="Email"><br></label>
+            <label for="passwd"><input class="loginBoxInput" type="password" id="passwd" name="passwd"
+                                       placeholder="Password"><br></label>
+            <button class="loginBoxSubmit" type="button" onclick="location.href='index.html'">Log in</button>
+            <a class="loginBoxText" href="">Forgot password?</a>
+        </form>
     </div>
+</div>
 </body>
 </html>
