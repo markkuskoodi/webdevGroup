@@ -7,8 +7,6 @@ body {
     overflow: hidden;
 }
 
-
-
 .background {
     background-color: #386dd6;
     max-width: 100%;
@@ -22,9 +20,9 @@ body {
     height: 35vw;
     position: relative;
     overflow: hidden;
-
     margin: 7% 30% 30%;
 }
+
 
 .loginBoxFlex{
     margin-top: -10%;
@@ -41,7 +39,7 @@ body {
 }
 
 a:hover {
-  color: #92cbf7;
+    color: #92cbf7;
 }
 
 .loginBoxLower{
@@ -76,4 +74,35 @@ a:hover {
 
 #heading{
     font-family: sans-serif;
+}
+
+@media only screen and (max-width: 479px) and (max-height: 736px){
+    .loginbox {
+        width: 85vw;
+        height: 150vw;
+        margin-top: 14%;
+        margin-left: 5%;
+    }
+
+    .loginBoxInput{
+        margin: 3px;
+    }
+}
+
+@media only screen and (min-height: 737px) and (min-width: 411px){
+    .loginbox {
+        width: 87vw;
+        height: 180vw;
+        margin-top: 11%;
+        margin-left: 4.5%;
+    }
+}
+
+@media only screen and (min-height: 737px) and (max-width: 410px){
+    .loginbox {
+        width: 87vw;
+        height: 190vw;
+        margin-top: 15%;
+        margin-left: 5%;
+    }
 }
