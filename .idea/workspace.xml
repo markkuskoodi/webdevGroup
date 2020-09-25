@@ -21,8 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1aaa7430-5ce0-474a-8c94-8cebf2a93887" name="Default Changelist" comment="overall done with this, only submit button and background size needs to be resized.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/res/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +78,7 @@
       <workItem from="1600888244348" duration="3929000" />
       <workItem from="1600898375716" duration="1764000" />
       <workItem from="1600940855344" duration="10777000" />
-      <workItem from="1601019177171" duration="2955000" />
+      <workItem from="1601019177171" duration="3724000" />
     </task>
     <task id="LOCAL−00001" summary="git ei tööta mul lambist??">
       <created>1600890398523</created>
