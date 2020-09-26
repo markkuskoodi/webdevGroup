@@ -1,5 +1,5 @@
 .background {
-    background-color: #386dd6;
+    background-color: #1677bd;
     max-width: 100%;
     max-height: 100%;
 }
@@ -23,16 +23,16 @@
 
 .post {
     width: 40vw;
-    height: 40vw;
+    height: 33vw;
     position: relative;
     margin: 10% 10% 10%;
-    box-shadow: 0.3em 0.3em 1em rgba(0,0,0,0.3);
+    box-shadow: 0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
 }
 
 .SearchSubmit {
     position: center;
     color: whitesmoke;
-    background-color: #3d3da4;
+    background-color: #0d579b;
     border-radius: 5px;
     padding: 10px 35px;
 }
@@ -69,9 +69,8 @@
 }
 
 #postPic {
-    height: 50%;
-    width: 100%;
-    position: relative;
+    max-width: 100%;
+    max-height: 100%;
 }
 
 #kuupäev {
@@ -92,13 +91,19 @@
     font-size: 20px;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     margin-left: 3%;
+    margin-top: 5%;
 }
 
 #like {
     height: 5%;
     width: 10%;
+    border-radius: 3px;
+}
+
+.likeButton {
     float: left;
     margin-left: 2%;
-    margin-top: 2%;
+    margin-top: 4%;
     margin-bottom: 2%;
+
 }
