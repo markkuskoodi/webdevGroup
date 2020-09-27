@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1aaa7430-5ce0-474a-8c94-8cebf2a93887" name="Default Changelist" comment="changed the feed a bit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/res/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/res/css/index.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,7 +83,7 @@
       <workItem from="1601057014200" duration="4953000" />
       <workItem from="1601019177171" duration="10286000" />
       <workItem from="1601223252800" duration="5343000" />
-      <workItem from="1601233084990" duration="274000" />
+      <workItem from="1601233084990" duration="693000" />
     </task>
     <task id="LOCAL−00001" summary="git ei tööta mul lambist??">
       <created>1600890398523</created>

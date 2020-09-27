@@ -59,7 +59,7 @@
     margin-top: -3px;
 }
 
-#pic2 {
+.pic2 {
     height: 3%;
     width: 4%;
     float: left;
@@ -68,10 +68,6 @@
     margin-bottom: 2%;
 }
 
-#postPic {
-    max-width: 100%;
-    max-height: 100%;
-}
 
 #kuupäev {
     float: right;
@@ -103,7 +99,12 @@ label + a3 img {
 
 }
 
-#like {
+a99 ~ .postPic {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.like {
     height: 30px;
     width: 40px;
     border-radius: 3px;
