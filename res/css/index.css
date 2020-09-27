@@ -23,7 +23,7 @@
 
 .post {
     width: 40vw;
-    height: 33vw;
+    height: auto;
     position: relative;
     margin: 10% 10% 10%;
     box-shadow: 0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
